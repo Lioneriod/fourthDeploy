@@ -1,6 +1,6 @@
 # fourthDeploy
 All you have to is access
->> nodeTester.test.js 
+nodeTester.test.js 
 and use 
->> npm test
+npm test
 That's it.
