@@ -1,7 +1,7 @@
 # fourthDeploy
 All you have to is access
 
->nodeTester.test.js 
+>Any of the test.js files
 
 and use on a terminal
 
